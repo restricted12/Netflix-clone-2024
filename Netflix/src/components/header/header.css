@@ -5,17 +5,17 @@
     justify-content: center;
     align-items: center;
     background-color: rgb(20, 20, 20);
-    /* background-color: transparent; */
-    height: 10vh;
+    background-color: transparent;
+    height: 8vh;
     color: white;
     transition: all 0.5s;
     transition-timing-function: ease-in;
     z-index: 1;
 }
 
-.nav-black{
+/* .nav-black{
     background-color: rgb(20, 20, 20); 
-}
+} */
 .header-container{
     width: 90%;
     display: flex;
