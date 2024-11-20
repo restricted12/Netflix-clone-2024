@@ -15,6 +15,8 @@
    color: #fafafa;
    cursor: pointer;
    margin-left: 5px;
+   margin-bottom: 15px;
+    margin-top: 20px;
 }
 .footer-data{
     display: flex;
@@ -36,9 +38,11 @@
     justify-content: center;
     border: #fff 1px solid;
     
-    width: 10%;
+    width: 15%;
     margin: 10px 0;
     cursor: pointer;
+    margin-bottom: 15px;
+    margin-top: 20px;
 }
 .copy-write{
     font-size: 12px;
